@@ -41,7 +41,7 @@ module.exports.run = async (client, message, args) => {
             client.guilds.cache.get('722041041829756999').channels.cache.get('771106946240610335').send(embed)
             let embedmember = new Discord.MessageEmbed()
             .setTitle('Aprovado!<a:certo:770324281837224016>')
-            .setDescription('Você foi aprovado na Whitelist do **Hive Roleplay!**\nSeja bem-vindo à cidade!\n\n**__Como Conectar:__**\n \`\`\`py\n#Tecle F8 e digite no console:\nconnect 177.54.149.133\n\n#IP do TokoVoip:\nhiverp\n\`\`\`')
+            .setDescription('Você foi aprovado na Whitelist do **NOME DO SERVIDOR!**\nSeja bem-vindo à cidade!\n\n**__Como Conectar:__**\n \`\`\`py\n#Tecle F8 e digite no console:\nconnect id do servidor \n\n#IP do TokoVoip:\n IP TOKOVOIP\n\`\`\`')
             .setColor('#09f340')
             .setFooter(guild.name)
             .setTimestamp()
