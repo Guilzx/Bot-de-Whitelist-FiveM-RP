@@ -1,2 +1,2 @@
 # Bot-de-Whitelist-FiveM-RP
-Bot de Whitelist FiveM RP TINDUS VENDE AS PORRA DO BOT TOMA AI DE GRAÇA PRA VCS NÃO PAGAR ELE
+Bot de Whitelist FiveM RP, TOMA AI DE GRAÇA PRA VCS NÃO PAGAR ELE
