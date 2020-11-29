@@ -6,9 +6,9 @@ module.exports.run = async (client, message, args) => {
     const guild = client.guilds.cache.get('722041041829756999')
 
    const connection = mysql.createConnection({ 
-          host: '177.54.149.133',
-          user: 'hiverp',
-          password: 'hive1172020',
+          host: 'IP',
+          user: 'user',
+          password: 'SENHHA',
           database: 'vrpex'
         });
         connection.connect((err) => {
